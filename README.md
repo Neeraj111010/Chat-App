@@ -8,6 +8,7 @@
 ##### 7)Used React hot toast for user action feedback.
 ##### 8)Used cloudinary for optimizing and managing visual content
 
+
 # Env file setup demo
 #### MONGODB_URI=...
 #### PORT=5001
