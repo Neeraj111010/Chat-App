@@ -1,6 +1,6 @@
 # Chat-App Features
-MERN + Socket.io + TailwindCSS + Daisy UI(Tech Stack Used)
-Authentication and authorization using jwt.
+# MERN + Socket.io + TailwindCSS + Daisy UI(Tech Stack Used)
+# Authentication and authorization using jwt.
 Real-time bi-directional messaging with Socket.io.
 Online user status using MongoDB Cluster.
 Global state management with Zustand
